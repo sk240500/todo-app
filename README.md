@@ -58,5 +58,6 @@ The application includes basic styling to improve the visual appearance and resp
 Usage
 Clone the project repository.
 Navigate to the project directory.
+Run npm install react-scripts --save
 Run npm start to start the development server.
 Open the browser and access the application at http://localhost:3000.
