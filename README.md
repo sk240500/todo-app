@@ -1,5 +1,5 @@
 # todo-app
-How to run the project locally
+** How to run the project locally
 
 Clone the project repository.
 
@@ -9,7 +9,7 @@ Run npm install react-scripts --save
 
 Run npm start to start the development server.
 
-Open the browser and access the application at http://localhost:3000.
+Open the browser and access the application at http://localhost:3000. **
 
 
 To-Do App Documentation
