@@ -1,5 +1,5 @@
 # todo-app
-How to run locally
+How to run the project locally
 
 Clone the project repository.
 
