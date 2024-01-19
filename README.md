@@ -1,4 +1,16 @@
 # todo-app
+How to run locally
+
+Clone the project repository.
+
+Navigate to the project directory.
+
+Run npm install react-scripts --save
+
+Run npm start to start the development server.
+
+Open the browser and access the application at http://localhost:3000.
+
 To-Do App Documentation
 
 Project Structure
@@ -55,14 +67,4 @@ Provides buttons for task deletion and editing.
 Styling
 The application includes basic styling to improve the visual appearance and responsiveness. Styles are defined in the App.css file and cover components, form elements, and task lists.
 
-Usage
 
-Clone the project repository.
-
-Navigate to the project directory.
-
-Run npm install react-scripts --save
-
-Run npm start to start the development server.
-
-Open the browser and access the application at http://localhost:3000.
